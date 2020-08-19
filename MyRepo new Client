@@ -4,6 +4,12 @@
     Customer accepts to progress
     Client ID created
     Client Requirements captured
+    Client info required
+        a- Does Client has domain
+        b- Does Client has Hosting
+        C- Does Client need payment gateway
+        D- Does Client need montly support
+        
     Client Rep info is collected
     Prototype made 
     Present Prototype to Client
